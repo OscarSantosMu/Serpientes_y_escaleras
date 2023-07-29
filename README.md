@@ -1,7 +1,13 @@
-# Serpientes_y_escaleras
+# Serpientes y escaleras
 El famoso juego de mesa ahora en tu computadora con tablero personalizable.
 
-El juego comienza con un poco de historia e instrucciones del juego. Al presionar cualquier tecla aparece un menú con la siguiente estructura.
+![](static/img/game.png)
+
+El juego comienza con un poco de historia e instrucciones del juego. 
+
+![](static/img/instrucciones.png)
+
+Al presionar cualquier tecla aparece un menú con la siguiente estructura.
 
 ## Menú del juego
 1. Numero de jugadores.
@@ -25,6 +31,12 @@ En la opción **4** se muestra la información de los jugadores, si aún no se h
 
 ### Empezar a jugar
 En la opción **5** comienza el juego, si aún no se han agregado los jugadores entonces el juego no puede comenzar y le pide al usuario que primero ingrese a los jugadores.
+
+#### Demo
+
+Cabe mencionar, que para ganar el juego, se necesita caer exactamente en la casilla 100. De lo contrario, los jugadores retrodecerán en el tablero la cantidad n que se hayan pasado en su tiro con los dados.
+
+Por ejemplo, si un jugador está en la posición 94 y le toca 7, el jugador terminaría en la casilla 99. Si otro jugador está en 96 y le toca un 6 en los dados, el jugador terminaría en la casilla 98.
 
 ### Salir del juego
 En la opción **6** se cierra la aplicación.
