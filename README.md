@@ -34,9 +34,13 @@ En la opción **5** comienza el juego, si aún no se han agregado los jugadores 
 
 #### Demo
 
+https://github.com/OscarSantosMu/Serpientes_y_escaleras/assets/38818848/7823cac5-9fc1-47a6-bfa3-e6a0f7f06495
+
 Cabe mencionar, que para ganar el juego, se necesita caer exactamente en la casilla 100. De lo contrario, los jugadores retrodecerán en el tablero la cantidad n que se hayan pasado en su tiro con los dados.
 
 Por ejemplo, si un jugador está en la posición 94 y le toca 7, el jugador terminaría en la casilla 99. Si otro jugador está en 96 y le toca un 6 en los dados, el jugador terminaría en la casilla 98.
+
+https://github.com/OscarSantosMu/Serpientes_y_escaleras/assets/38818848/7fd7b94f-4586-41e9-9584-32f75459287f
 
 ### Salir del juego
 En la opción **6** se cierra la aplicación.
